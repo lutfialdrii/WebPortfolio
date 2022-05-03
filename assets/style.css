@@ -133,7 +133,7 @@ section h3::after{
     margin-bottom: 15px;
     line-height: 15px;
 }
-#skills {
+#skills, #contact {
     background-color: #f9f9f9;
 }
 #skills .bar{
